@@ -1,3 +1,4 @@
-### [Adebolu Mayowa][adebolu-mayowa]
+# [Adebolu Mayowa][adebolu-mayowa-link] Portfolio
 
-[adebolu-mayowa]: https://adebolumayowa.netlify.app
+
+[adebolu-mayowa-link]: https://adebolumayowa.netlify.app
